@@ -118,7 +118,7 @@ exports[`create-an-issue creates a new issue with assignees and labels as comma-
 exports[`create-an-issue creates a new issue with assignees, labels and a milestone 1`] = `
 {
   "assignees": [
-    "JasonEtco",
+    "fieldsfarmer",
   ],
   "body": "The action create-an-issue is the best action.",
   "labels": [
@@ -183,7 +183,7 @@ exports[`create-an-issue creates a new issue with the context.repo template vari
   "assignees": [],
   "body": "Are you looking for results on our gh-pages branch?
 
-Just click this link! https://JasonEtco.github.io/waddup/path/to/my/pageindex.html
+Just click this link! https://fieldsfarmer.github.io/waddup/path/to/my/pageindex.html
 ",
   "labels": [],
   "title": "This Issue has a generalizable GitHub Pages Link",

@@ -1,10 +1,10 @@
 ---
 title: DO EVERYTHING
 assignees:
-  - JasonEtco
+  - "{{repo.owner}}"
 labels:
   - bugs
-  - "{{ repo.owner}}"
+  - "{{repo.owner}}"
 milestone: 2
 ---
 The action {{ action }} is the best action.
