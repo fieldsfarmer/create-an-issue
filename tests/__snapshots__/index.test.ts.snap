@@ -118,7 +118,7 @@ exports[`create-an-issue creates a new issue with assignees and labels as comma-
 exports[`create-an-issue creates a new issue with assignees, labels and a milestone 1`] = `
 {
   "assignees": [
-    "JasonEtco",
+    "fieldsfarmer",
   ],
   "body": "The action create-an-issue is the best action.",
   "labels": [
